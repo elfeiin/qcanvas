@@ -127,7 +127,7 @@ function evnt() {
 
 let m = make_box();
 m.density = 10000000;
-m.pos = {x: 200, y: 200};
+m.pos = {x: 400, y: 400};
 make_box();
 
 setInterval(function() {
